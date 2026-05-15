@@ -1,36 +1,30 @@
-# Hi there, I'm Agalo Simon! 👋
+# 👋 Hi, I'm Agalo Simon!
 
-I am a software development trainee and student focused on building clean, efficient, and user-centric web applications. I am passionate about writing maintainable code, mastering modern frontend architectures, and continuously expanding my technical toolkit.
+## 🚀 About Me
+I am a dedicated software development trainee and student specializing in building clean, efficient, and user-centric mobile and web applications. Driven by a strong focus on code quality and technical precision, I enjoy crafting modern native Android interfaces, mastering frontend web architectures, and engineering maintainable full-stack solutions.
 
----
-
-### 🚀 What I'm Up To
-* 🛠️ Currently developing **Oyster Carsharing**, a modern web application for seamless vehicle rentals.
-* 📚 Sharpening my skills in advanced frontend state management, component architecture, and clean code principles.
-* 💼 Polishing my workflow with professional Git practices, structured branching, and strict code quality standards.
+I blend academic foundations with intensive, hands-on development training to build applications that are highly performant, scalable, and intuitive.
 
 ---
 
-### 🧰 My Toolbox
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Frontend** | React, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3 |
-| **Backend & Logic** | Kotlin, Node.js |
-| **Tools & Workflow** | Git, GitHub, Terminal, VS Code |
-
----
-
-### 📈 Core Coding Philosophies
-* **Readability First:** Code is read much more often than it is written. I strive for clean, self-documenting code and meaningful commit messages.
-* **Component-Driven Design:** Breaking complex user interfaces down into highly reusable, predictable components.
-* **Continuous Growth:** Embracing challenges, code reviews, and structured feedback to grow as a developer every day.
+## 🛠️ Technologies & Tools
+* **Mobile Development:** Android Development (Kotlin, Jetpack Compose)
+* **Programming Languages:** Kotlin, Python, TypeScript, JavaScript (ES6+)
+* **Frontend Web & UI:** React, Tailwind CSS, HTML5, CSS3
+* **Backend Frameworks:** Django, Node.js
+* **Cloud & Databases:** Firebase
+* **Tools & Workflow:** Git, GitHub, Terminal, Android Studio, VS Code, npm
 
 ---
 
-### 📫 Let's Connect!
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Professional Email Address]
-* **Portfolio:** [Your Portfolio Link, if applicable]
+## 🌱 Currently Learning & Improving
+* **Advanced Mobile & Web Architecture:** Deepening state management paradigms in both Jetpack Compose and React (Redux).
+* **Backend Systems:** Building robust API designs and solidifying backend logic foundations.
+* **Code Quality:** Refining clean code practices, professional Git workflows, and structured code review methodologies.
 
-*“Simplicity is the soul of efficiency.”*
+---
+
+## 📈 Core Coding Philosophies
+* **Readability First:** Code is read significantly more often than it is written. I prioritize writing self-documenting, clean code and maintaining clear, imperative commit messages.
+* **Component-Driven Design:** Designing complex user interfaces—whether in web or mobile—by breaking them down into modular, highly reusable, and predictable components.
+* **Continuous Growth:** Actively seeking out constructive code reviews, technical challenges, and feedback loops to sharpen my development standards daily.
