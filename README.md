@@ -8,11 +8,12 @@ I blend academic foundations with intensive, hands-on development training to bu
 ---
 
 ## 🛠️ Technologies & Tools
-* **Mobile Development:** Android Development (Kotlin, Jetpack Compose)
+* **Mobile Development:** Android Development (Kotlin, Jetpack Compose), Thunkable
 * **Programming Languages:** Kotlin, Python, TypeScript, JavaScript (ES6+)
 * **Frontend Web & UI:** React, Tailwind CSS, HTML5, CSS3
 * **Backend & Runtime:** Node.js, Django
-* **Cloud & Databases:** Firebase
+* **Cloud & Databases:** MongoDB, Firebase
+* **Design & Prototyping:** Figma
 * **Tools & Workflow:** Git, GitHub, Terminal, Android Studio, VS Code, npm
 
 ---
